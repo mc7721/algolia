@@ -1,0 +1,103 @@
+{
+    "name": "Algolia",
+    "description": "Algolia is a US startup company offering a web search product through a SaaS model.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2140-algolia.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "have api",
+        "no api definition",
+        "search"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/algolia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Algolia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2140-algolia.jpg",
+            "humanURL": "http:\/\/algolia.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/algolia-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.algolia.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/AlgoliaBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/algolia"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/algolia"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.algolia.com\/doc"
+        },
+        {
+            "type": "Email",
+            "url": "hey@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@algolia.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@Algolia.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/algolia"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.algolia.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/algolia"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/algolia.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.algolia.com\/"
+        }
+    ]
+}
